@@ -24,7 +24,7 @@ while (h2 <= 2)
 	h1 = 0;
 	while (h1 <= a)
 	{
-		m2 = 0
+		m2 = 0;
 		while (m2 <= 5)
 		{
 			m1 = 0;
